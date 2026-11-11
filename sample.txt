@@ -1,1 +1,3 @@
 This is a sample text file.
+
+The sample text file is updated.
