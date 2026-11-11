@@ -1,3 +1,1 @@
-This is a sample text file.
-
-Sample text file is updated to show the change in git status.
+Old sample text.
